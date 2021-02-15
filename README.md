@@ -6,10 +6,10 @@ Grupinho nota dez
 
 Nosso site já esta ON!
 
-[f4life.vercel.app](https://f4life.vercel.app/)
+[F4Life Web Site](https://f4life.vercel.app/)
 
-![Print da tela1](https://imgur.com/6se73Su)
-![Print da tela2](https://imgur.com/745110F)
+![Print da tela1](https://github.com/future4code/cruz-landing-page10/blob/master/landing-page/images/prints/print1.png)
+![Print da tela2](https://github.com/future4code/cruz-landing-page10/blob/master/landing-page/images/prints/print2.png)
 
 ### F4Life web site
 
