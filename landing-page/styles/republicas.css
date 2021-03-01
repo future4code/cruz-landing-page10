@@ -1,0 +1,23 @@
+@import url(./classes.css);
+
+article:first-of-type .title-center p:first-of-type {
+  margin-top: 30px;
+}
+
+article:first-of-type .card-container {
+  margin-top: 30px;
+  padding: 0 10%;
+}
+
+.form-large {
+  width: 80%;
+}
+
+.form-large label {
+  flex-basis: 20%;
+}
+
+.form-large input,
+.form-large select {
+  flex-basis: 25%;
+}
